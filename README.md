@@ -5,6 +5,8 @@
 I build fullstack web applications with a strong focus on backend systems, API design, and scalable architecture.  
 🚀 Building scalable backend systems and real-world applications  
 
+<a href="https://app.daily.dev/stackedupjesse"><img src="https://api.daily.dev/devcards/v2/hCVjs0u40SxHpeORBuKmu.png?type=default&r=x7a" width="356" alt="Goodluck Jesse Kassa's Dev Card"/></a>
+
 ---
 
 ## 🧠 Current Focus
