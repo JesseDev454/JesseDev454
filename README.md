@@ -74,12 +74,6 @@ High-conversion landing page built with React and Tailwind
 
 ---
 
-## 📈 GitHub Stats  
-
-![Goodluck's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseDev454&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Goodluck-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/goodluck-kassa-a4a43a331/)  
